@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Gomes Balbino</h1>
 <h3 align="center">QA Analyst and Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faist.global%2Fen%2Fwhy-qa-testing-is-essential-for-software-development&psig=AOvVaw0BTUCCyhPn4gRAIciUp_NW&ust=1693166660724000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJC2m7mP-4ADFQAAAAAdAAAAABASf">
+<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusgbalbino&label=Profile%20views&color=0e75b6&style=flat" alt="gusgbalbino" /> </p>
 
