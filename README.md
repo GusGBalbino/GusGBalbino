@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustavo Gomes Balbino</h1>
 <h3 align="center">QA Analyst and Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifer.com/66Uj">
+<iframe src="https://gifer.com/embed/66Uj" width=480 height=270.192 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusgbalbino&label=Profile%20views&color=0e75b6&style=flat" alt="gusgbalbino" /> </p>
 
