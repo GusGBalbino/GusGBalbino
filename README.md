@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Gomes Balbino</h1>
-<h3 align="center">QA Analyst and Developer</h3>
+<h3 align="center">QA Analyst and Python Developer</h3>
 <img src="https://media2.giphy.com/media/gG6OcTSRWaSis/giphy.gif" width=400 position="right" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gusgbalbino&label=Profile%20views&color=0e75b6&style=flat" alt="gusgbalbino" /> </p>
