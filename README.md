@@ -1,11 +1,11 @@
 <h1 align="center">Hi 😄, I'm Gustavo Gomes Balbino</h1>
 <h3 align="center">Python Developer and Computer Scientist</h3>
 
-- 🔭 I’m currently working on **Automations and Django RestFramework**
+- 🔭 I’m currently working on *Python, Django RestFramework, Flask and Selenium.**
 
-- 🌱 I’m currently learning **C#, Flask and Data Analysis**
+- 🌱 I’m currently learning **JS, AI and Data Analysis.**
 
-- 💬 Ask me about **Python and Automations**
+- 💬 Ask me about **Python and Selenium.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
