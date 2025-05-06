@@ -1,9 +1,8 @@
 <h1 align="center">Hi 😄, I'm Gustavo Gomes Balbino</h1>
 <h3 align="center">Python Developer and Computer Scientist</h3>
 
-- 🔭 I’m currently working with *FastAPI, DataScience and Machine Learning*
+- 🔭 I’m currently working with *AI, Machine Learning and Python*
 
-- 💬 Ask me about **Python and FastAPI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
