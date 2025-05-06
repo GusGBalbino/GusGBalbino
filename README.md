@@ -1,8 +1,8 @@
 <h1 align="center">Hi 😄, I'm Gustavo Gomes Balbino</h1>
-<h3 align="center">Python Developer and Computer Scientist</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 - 🔭 I’m currently working with *AI, Machine Learning and Python*
-
+- 📚 Studying LangGraph, Deep Learning and AI Tools
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
