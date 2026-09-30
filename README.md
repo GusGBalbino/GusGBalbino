@@ -88,28 +88,6 @@
 
 <br/>
 
-<!-- Generated hourly by .github/workflows/metrics.yml (lowlighter/metrics) -->
-<a href="https://github.com/GusGBalbino">
-  <img align="center" width="49%" src="./metrics/header.svg" />
-</a>
-<a href="https://github.com/GusGBalbino">
-  <img align="center" width="49%" src="./metrics/acti_comm.svg" />
-</a>
-<a href="https://github.com/GusGBalbino">
-  <img align="center" width="49%" src="./metrics/repositories.svg" />
-</a>
-<a href="https://github.com/GusGBalbino">
-  <img align="center" width="49%" src="./metrics/iso_calendar.svg" />
-</a>
-<a href="https://github.com/GusGBalbino">
-  <img align="center" width="49%" src="./metrics/issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/GusGBalbino">
-  <img align="center" width="49%" src="./metrics/habits.svg" />
-</a>
-
-<br/><br/>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GusGBalbino/GusGBalbino/output/github-snake-dark.svg">
