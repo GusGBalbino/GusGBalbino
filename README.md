@@ -15,7 +15,6 @@
   <a href="https://github.com/auvpcapital">
     <img src="https://img.shields.io/badge/AUVP_Capital-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/Brasília--DF-000?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </div>
 
 <br/>
@@ -90,14 +89,18 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GusGBalbino/GusGBalbino/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GusGBalbino/GusGBalbino/output/github-snake.svg">
-    <img width="100%" alt="snake eating my contributions" src="https://raw.githubusercontent.com/GusGBalbino/GusGBalbino/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/attention-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/attention-light.svg">
+    <img width="100%" alt="Attention is all I need — self-attention over: Gustavo builds AI agents that reason and ship" src="./assets/attention-dark.svg">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=8B949E&center=true&vCenter=true&width=520&lines=model.fit(curiosity%2C+epochs%3Dinf);while+True%3A+learn()%3B+build()%3B+ship();Feito+em+Bras%C3%ADlia+%E2%98%95" alt="typing footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/nexttoken-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/nexttoken-light.svg">
+    <img width="85%" alt="gustavo.generate(&quot;Gustavo is&quot;) streaming token by token" src="./assets/nexttoken-dark.svg">
+  </picture>
 </div>
