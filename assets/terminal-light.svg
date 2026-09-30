@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="438" viewBox="0 0 960 438" role="img" aria-label="Terminal: training the model gustavo, converging to AI and ML Engineer">
+<style>
+.win{fill:#ffffff;stroke:#d0d7de;stroke-width:1.5}
+.bar{fill:#f6f8fa}
+.title{font:500 13px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#59636e}
+.ln{font:500 15px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;opacity:0;animation:show .01s forwards}
+@keyframes show{to{opacity:1}}
+.cur{fill:#1a7f37;opacity:0;animation:show .01s 6.4s forwards,blink 1s steps(1) 6.4s infinite}
+@keyframes blink{50%{opacity:0}}
+.gl{stroke:#d0d7de;stroke-width:1;stroke-dasharray:3 4}
+.curve{fill:none;stroke:url(#lg);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 2.6s 1.9s ease-out forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.area{fill:url(#ag);opacity:0;animation:show 1s 4.5s forwards}
+.dot{fill:#ffffff;stroke:#8250df;stroke-width:2;opacity:0;animation:show .2s forwards}
+.ax{font:500 11px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#59636e;letter-spacing:1px}
+</style>
+<defs>
+<linearGradient id="lg" x1="0" x2="1"><stop offset="0" stop-color="#cf222e"/><stop offset=".5" stop-color="#8250df"/><stop offset="1" stop-color="#1a7f37"/></linearGradient>
+<linearGradient id="ag" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#8250df" stop-opacity=".25"/><stop offset="1" stop-color="#8250df" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="958" height="436" rx="12" class="win"/>
+<path d="M1,13 a12,12 0 0 1 12,-12 H947 a12,12 0 0 1 12,12 V38 H1 Z" class="bar"/>
+<line x1="1" x2="959" y1="38" y2="38" stroke="#d0d7de"/>
+<circle cx="24" cy="20" r="6" fill="#ff5f57"/><circle cx="44" cy="20" r="6" fill="#febc2e"/><circle cx="64" cy="20" r="6" fill="#28c840"/>
+<text x="480.0" y="24" text-anchor="middle" class="title">gustavo@brasilia: ~/career — train.py</text>
+<text x="28" y="70" class="ln" style="animation-delay:0.3s" xml:space="preserve"><tspan fill="#1a7f37">$ </tspan><tspan fill="#1f2328">python train.py --model gustavo --epochs inf</tspan></text><text x="28" y="96" class="ln" style="animation-delay:1.2s" xml:space="preserve"><tspan fill="#59636e">Loading dataset: </tspan><tspan fill="#9a6700">coffee</tspan><tspan fill="#59636e">, </tspan><tspan fill="#9a6700">papers</tspan><tspan fill="#59636e">, </tspan><tspan fill="#9a6700">side-projects</tspan><tspan fill="#59636e"> ... done</tspan></text><text x="28" y="122" class="ln" style="animation-delay:1.4s" xml:space="preserve"><tspan fill="#1f2328"></tspan></text><text x="28" y="148" class="ln" style="animation-delay:1.9s" xml:space="preserve"><tspan fill="#0969da">Epoch 1/5 </tspan><tspan fill="#59636e">│ </tspan><tspan fill="#1f2328">[python, c#, django]         </tspan><tspan fill="#cf222e">loss: 0.912</tspan></text><text x="28" y="174" class="ln" style="animation-delay:2.5s" xml:space="preserve"><tspan fill="#0969da">Epoch 2/5 </tspan><tspan fill="#59636e">│ </tspan><tspan fill="#1f2328">[fastapi, react, postgres]   </tspan><tspan fill="#9a6700">loss: 0.534</tspan></text><text x="28" y="200" class="ln" style="animation-delay:3.1s" xml:space="preserve"><tspan fill="#0969da">Epoch 3/5 </tspan><tspan fill="#59636e">│ </tspan><tspan fill="#1f2328">[pytorch, tensorflow, mlops] </tspan><tspan fill="#9a6700">loss: 0.221</tspan></text><text x="28" y="226" class="ln" style="animation-delay:3.7s" xml:space="preserve"><tspan fill="#0969da">Epoch 4/5 </tspan><tspan fill="#59636e">│ </tspan><tspan fill="#1f2328">[rag, llms, mcp, agents]     </tspan><tspan fill="#1a7f37">loss: 0.087</tspan></text><text x="28" y="252" class="ln" style="animation-delay:4.3s" xml:space="preserve"><tspan fill="#0969da">Epoch 5/5 </tspan><tspan fill="#59636e">│ </tspan><tspan fill="#1f2328">[langgraph, deep learning]   </tspan><tspan fill="#1a7f37">loss: 0.031</tspan></text><text x="28" y="278" class="ln" style="animation-delay:4.5s" xml:space="preserve"><tspan fill="#1f2328"></tspan></text><text x="28" y="304" class="ln" style="animation-delay:5.0s" xml:space="preserve"><tspan fill="#1a7f37">✔ </tspan><tspan fill="#1f2328">Model converged → </tspan><tspan fill="#8250df">AI &amp; ML Engineer @ AUVP Capital</tspan></text><text x="28" y="330" class="ln" style="animation-delay:5.5s" xml:space="preserve"><tspan fill="#0969da">▸ </tspan><tspan fill="#59636e">Fine-tuning on: </tspan><tspan fill="#1f2328">LangGraph · Deep Learning · AI Tools</tspan></text><text x="28" y="356" class="ln" style="animation-delay:5.9s" xml:space="preserve"><tspan fill="#0969da">▸ </tspan><tspan fill="#59636e">Inference endpoint: </tspan><tspan fill="#0969da">linkedin.com/in/gusgbalbino</tspan></text><text x="28" y="382" class="ln" style="animation-delay:6.4s" xml:space="preserve"><tspan fill="#1a7f37">$ </tspan></text><rect x="46" y="367" width="9" height="19" class="cur"/>
+<g>
+<line x1="660" x2="920" y1="150.0" y2="150.0" class="gl"/><line x1="660" x2="920" y1="187.5" y2="187.5" class="gl"/><line x1="660" x2="920" y1="225.0" y2="225.0" class="gl"/><line x1="660" x2="920" y1="262.5" y2="262.5" class="gl"/><line x1="660" x2="920" y1="300.0" y2="300.0" class="gl"/>
+<text x="660" y="136" class="ax">TRAINING LOSS</text>
+<text x="920" y="320" class="ax" text-anchor="end">epochs →</text>
+<path d="M660.0,163.2 L725.0,219.9 L790.0,266.9 L855.0,286.9 L920.0,295.4 L920,300 L660,300 Z" class="area"/>
+<path d="M660.0,163.2 L725.0,219.9 L790.0,266.9 L855.0,286.9 L920.0,295.4" class="curve" pathLength="1"/>
+<circle cx="660.0" cy="163.2" r="4" class="dot" style="animation-delay:1.9s"/><circle cx="725.0" cy="219.9" r="4" class="dot" style="animation-delay:2.5s"/><circle cx="790.0" cy="266.9" r="4" class="dot" style="animation-delay:3.1s"/><circle cx="855.0" cy="286.9" r="4" class="dot" style="animation-delay:3.7s"/><circle cx="920.0" cy="295.4" r="4" class="dot" style="animation-delay:4.3s"/>
+</g>
+</svg>
